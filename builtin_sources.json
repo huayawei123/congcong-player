@@ -1,0 +1,38 @@
+[
+  {
+    "name": "量子资源",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/"
+  },
+  {
+    "name": "新浪资源",
+    "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod"
+  },
+  {
+    "name": "暴风资源",
+    "url": "https://bfzyapi.com/api.php/provide/vod/"
+  },
+  {
+    "name": "极速资源",
+    "url": "https://jszyapi.com/api.php/provide/vod/"
+  },
+  {
+    "name": "非凡资源",
+    "url": "http://ffzy5.tv/api.php/provide/vod"
+  },
+  {
+    "name": "电影天堂",
+    "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "非凡直连",
+    "url": "http://ffzy.tv/api.php/provide/vod/"
+  },
+  {
+    "name": "360资源",
+    "url": "https://360zy.com/api.php/provide/vod"
+  },
+  {
+    "name": "百度资源",
+    "url": "https://api.apibdzy.com/api.php/provide/vod"
+  }
+]

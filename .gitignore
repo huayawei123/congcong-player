@@ -1,0 +1,51 @@
+# ---- 构建产物 ----
+build/
+*.apk
+*.apks
+*.idsig
+*.dex
+*.class
+classes/
+
+# ---- 签名密钥：绝对不要提交 ----
+*.jks
+*.keystore
+*.p12
+signing.properties
+
+# ---- 调试截图与录屏 ----
+*.png
+*.jpg
+*.jpeg
+*_demo/
+realplay/
+
+# ---- 探测 / 测试的中间结果 ----
+*_result.json
+list_samples.json
+probe_*.py
+playtest_*.py
+pool_*.py
+tap_text.py
+locate_tap.py
+shot.py
+focus_app.py
+adbutil.py
+audit_builtin_sources.py
+
+# ---- 日志 ----
+*.log
+npm-*.log
+
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ---- 仅本机使用的开发脚本（含绝对路径，不适合放仓库） ----
+check_connectivity.py
+realplay_final.sh
+verify_2026_chain.py
+signing.properties
